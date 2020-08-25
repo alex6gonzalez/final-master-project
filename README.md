@@ -59,13 +59,13 @@ INTRO....
 [Aggregate Measure Imbalanced (FA)](https://github.com/alex6gonzalez/final-master-project/blob/master/Machine%20Learning/Aggregate%20Measure%20Imbalanced%20(FA).ipynb)
 
 ### 3.4 Causal Inference
-[Mediation models (Aggregate measure)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20models%20(Aggregate%20measure).ipynb)
+[Mediation models (Aggregate measure)](https://github.com/alex6gonzalez/final-master-project/blob/master/Causal%20Inference/Mediation%20models%20(Aggregate%20measure)%20(1).ipynb)
 
-[Mediation models (gVRF)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20models%20(gVRF).ipynb)
+[Mediation models (gVRF)](https://github.com/alex6gonzalez/final-master-project/blob/master/Causal%20Inference/Mediation%20models%20(gVRF)%20(1).ipynb)
 
-[Mediation regressions (Brain = M)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20regressions%20(Brain%20%3D%20M).ipynb)
+[Mediation regressions (Brain = M)](https://github.com/alex6gonzalez/final-master-project/blob/master/Causal%20Inference/Mediation%20regressions%20(Brain%20%3D%20M).ipynb)
 
-[Mediation regressions (Heart = M)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20regressions%20(Heart%20%3D%20M).ipynb)
+[Mediation regressions (Heart = M)](https://github.com/alex6gonzalez/final-master-project/blob/master/Causal%20Inference/Mediation%20regressions%20(Heart%20%3D%20M).ipynb)
 
 ## 4. Contributions
 Contributions are welcome! For bug reports or requests please submit an [submit an issue](https://github.com/alex6gonzalez/final-master-project/issues).
