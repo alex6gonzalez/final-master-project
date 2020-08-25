@@ -51,7 +51,7 @@ INTRO....
 
 [Aggregate Measure Imbalanced (FA)](https://github.com/alex6gonzalez/final-master-project/blob/master/Machine%20Learning/Aggregate%20Measure%20Imbalanced%20(FA).ipynb)
 
-### 3.4 Casual Inference
+### 3.4 Causal Inference
 [Mediation models (Aggregate measure)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20models%20(Aggregate%20measure).ipynb)
 
 [Mediation models (gVRF)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20models%20(gVRF).ipynb)
