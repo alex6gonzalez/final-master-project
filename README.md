@@ -61,9 +61,31 @@ INTRO....
 [Mediation regressions (Heart = M)](https://github.com/alex6gonzalez/final-master-project/blob/master/Casual%20Inference/Mediation%20regressions%20(Heart%20%3D%20M).ipynb)
 
 ## 4. Contributions
-Contributions are welcome! For bug reports or requests please submit an [issue](https://github.com/alex6gonzalez/final-master-project/issues).
+Contributions are welcome! For bug reports or requests please submit an [submit an issue](https://github.com/alex6gonzalez/final-master-project/issues).
 
 ## 5. Contact
 Feel free to contact me to discuss any issues, questions or comments.
 * GitHub: [alex6gonzalez](https://github.com/alex6gonzalez)
-* Linkedin: https://www.linkedin.com/in/alejandro-gonzalez-alvarez/
+* Linkedin: [https://www.linkedin.com/in/alejandro-gonzalez-alvarez/](https://www.linkedin.com/in/alejandro-gonzalez-alvarez/)
+
+### BibTex reference format for citation for the Code
+```
+@misc{TFMGonzalez,
+title={Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
+url={https://github.com/alex6gonzalez/final-master-project},
+note={GitHub repository with a collection of Jupyter notebooks intended to study the associations between heart function, heart structure and brain structure},
+author={Alejandro Gonzalez},
+  year={2020}
+}
+```
+### BibTex reference format for citation for the report of the Master's Thesis
+
+```
+@misc{GonzalezMasterThesis,
+title={Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
+url={},
+note={Report of the Master's Thesis: Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
+author={Alejandro Gonzalez},
+  year={2020}
+}
+```
