@@ -6,15 +6,15 @@ INTRO....
 ## 1. Implemented tricks and techniques
 > - Factor Analysis as a dimensionality reduction technique.
 > - Machine learning techniques to predict cardiac function.
-> - Feature selection algorithms (SelectKbest)
+> - Feature selection algorithms (SelectKbest).
 > - Sampling techniques to reduce imbalanced data such as Random Undersampling, Random Oversampling and SMOTE-TOMEK.
-> - Propensity Score Matching Analysis
-> - Mediation Analysis
+> - Propensity Score Matching Analysis.
+> - Mediation Analysis.
 
 ## 2. Machine learning algorithms used
-> - K-means clustering
-> - Linear regressions
-> - Random Forest
+> - K-means clustering.
+> - Linear regressions.
+> - Random Forest.
 
 ## 3. Notebooks
 [UK Biobank data pre-processing](https://github.com/alex6gonzalez/final-master-project/blob/master/UK%20Biobank%20data%20pre-processing.ipynb)
