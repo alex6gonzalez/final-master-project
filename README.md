@@ -5,7 +5,7 @@ INTRO....
 
 ## 1. Implemented tricks and techniques
 > - Factor Analysis as a dimensionality reduction technique.
-> - Machine learning techniques to predict cardiac function.
+> - Machine learning techniques to predict vascular health.
 > - Feature selection algorithms (SelectKbest).
 > - Sampling techniques to reduce imbalanced data such as Random Undersampling, Random Oversampling and SMOTE-TOMEK.
 > - Propensity Score Matching Analysis.
