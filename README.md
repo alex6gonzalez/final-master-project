@@ -78,12 +78,12 @@ Contributions are welcome! For bug reports or requests please submit an [submit 
 ## 5. Contact
 Feel free to contact me to discuss any issues, questions or comments.
 * GitHub: [alex6gonzalez](https://github.com/alex6gonzalez)
-* Linkedin: [Alejandro González Álvarez/](https://www.linkedin.com/in/alejandro-gonzalez-alvarez/)
+* Linkedin: [Alejandro González Álvarez](https://www.linkedin.com/in/alejandro-gonzalez-alvarez/)
 
 ### BibTex reference format for citation for the Code
 ```
 @misc{TFMGonzalez,
-title={Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
+title={Traditional Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
 url={https://github.com/alex6gonzalez/final-master-project},
 note={GitHub repository with a collection of Jupyter notebooks intended to study the associations between heart function, heart structure and brain structure},
 author={Alejandro Gonzalez},
@@ -94,7 +94,7 @@ author={Alejandro Gonzalez},
 
 ```
 @misc{GonzalezMasterThesis,
-title={Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
+title={Traditional Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
 url={},
 note={Report of the Master's Thesis: Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
 author={Alejandro Gonzalez},
