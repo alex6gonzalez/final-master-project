@@ -7,8 +7,10 @@ Many recent publications have looked at the relationships between single heart a
 Our aim will be to provide the first combined systemic and multi-disease study of all these variables. We used both traditional machine learning techniques and causal inference approaches. For traditional machine learning approaches we predicted VRFs using brain MRI indices and heart CMR radiomics separately using optimal classifiers. We then combined the two datasets and checked if they performed any better together. If so, we can infer that they provide unique information. After that, we used causal mediation analysis and we assembled graphs of potential relationships between each of the three datasets. We then measured the strength of the connections in these graphs to simultaneously estimate the causal connection between brain diseases, heart diseases, and vascular health.
 
 <p align="center">
-<center>![alt text](https://github.com/alex6gonzalez/final-master-project/blob/master/Figures/final%20graph.png?raw=true)</center>
+  <img width="460" height="300" src="https://github.com/alex6gonzalez/final-master-project/blob/master/Figures/final%20graph.png/460/300">
 </p>
+
+<center>![alt text](https://github.com/alex6gonzalez/final-master-project/blob/master/Figures/final%20graph.png?raw=true)</center>
 
 ## 1. Implemented tricks and techniques
 > - Factor Analysis as a dimensionality reduction technique.
