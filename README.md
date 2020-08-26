@@ -78,7 +78,7 @@ Contributions are welcome! For bug reports or requests please submit an [submit 
 ## 5. Contact
 Feel free to contact me to discuss any issues, questions or comments.
 * GitHub: [alex6gonzalez](https://github.com/alex6gonzalez)
-* Linkedin: [https://www.linkedin.com/in/alejandro-gonzalez-alvarez/](https://www.linkedin.com/in/alejandro-gonzalez-alvarez/)
+* Linkedin: [Alejandro González Álvarez/](https://www.linkedin.com/in/alejandro-gonzalez-alvarez/)
 
 ### BibTex reference format for citation for the Code
 ```
