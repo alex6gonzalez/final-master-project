@@ -83,7 +83,7 @@ Feel free to contact me to discuss any issues, questions or comments.
 ### BibTex reference format for citation for the Code
 ```
 @misc{TFMGonzalez,
-title={Traditional Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
+title={Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
 url={https://github.com/alex6gonzalez/final-master-project},
 note={GitHub repository with a collection of Jupyter notebooks intended to study the associations between heart function, heart structure and brain structure},
 author={Alejandro Gonzalez},
@@ -94,7 +94,7 @@ author={Alejandro Gonzalez},
 
 ```
 @misc{GonzalezMasterThesis,
-title={Traditional Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
+title={Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
 url={},
 note={Report of the Master's Thesis: Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
 author={Alejandro Gonzalez},
