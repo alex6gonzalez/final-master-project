@@ -1,4 +1,4 @@
-# Traditional Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank
+# Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank
 
 Causal inference modeling has captured the attention of many epidemiologists, economics, and machine learning experts in the last few years. The models attempt to discover the causal links between correlated datasets. Rather than just saying “A and B are linked”, these models might allow us to say “A causes B” or the other way around. We propose using traditional machine learning techniques as well as new causal inference modeling approaches to mine UK Biobank data to better infer the causal link between heart and brain diseases. We worked with three datasets derived from the UK Biobank: vascular risk factors, that captures how well the heart works, brain MRI indices, structural imaging data that contains the structure of various brain regions, and heart CMR radiomics, that quantify various changes in heart structures.
 
