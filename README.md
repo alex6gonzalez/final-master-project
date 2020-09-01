@@ -6,6 +6,8 @@ Our aim will be to provide the first combined systemic and multi-disease study o
 
 ![Causal connection between brain diseases, heart diseases, and vascular health](https://github.com/alex6gonzalez/final-master-project/blob/master/Figures/final%20graph.png?raw=true)
 
+The whole code, until 01.09.2020, is the result of a final Master's Thesis of the [Master's Degree in the Fundamental Principles of Data Science](http://www.ub.edu/datascience/master/) supervised by Karim Lekadir, PhD. The [Master's Thesis report](https://github.com/alex6gonzalez/final-master-project/blob/master/TFM_Report.pdf) is published in this repository in a PDF format. To summary all the contents I explained in the report, it is possible to consult the [slides of the presentation](https://github.com/alex6gonzalez/final-master-project/blob/master/TFM_Slides.pdf). Any contribution or idea to continue the lines of the proposed work will be very welcome.
+
 ## 1. Implemented tricks and techniques
 > - Factor Analysis as a dimensionality reduction technique.
 > - Machine learning techniques to predict vascular health.
