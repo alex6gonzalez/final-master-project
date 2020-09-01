@@ -95,27 +95,9 @@ author={Alejandro Gonzalez},
 ```
 @misc{GonzalezMasterThesis,
 title={Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
-url={},
-note={Report of the Master's Thesis: Associations between vascular risk factors, heart CMR radiomics and brain MRI indices in UK Biobank},
+url={https://github.com/alex6gonzalez/final-master-project/blob/master/TFM_Report.pdf},
+note={Report of the Master's Thesis: Machine Learning and Causal Inference approaches for systemic multi-disease associations in UK Biobank},
 author={Alejandro Gonzalez},
   year={2020}
 }
 ```
-
-## License
-
-The content developed by Alejandro Gonzalez is distributed under the following license:
-
-    Copyright 2020 Alejandro Gonzalez
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
